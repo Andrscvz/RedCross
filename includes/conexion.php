@@ -1,8 +1,8 @@
 <?php
 	$servername = "localhost";
-	$username = "root";
-	$password = "";
-	$dbname = "escuelacruzroja";
+	$username = "b6cc8110fbd434";
+	$password = "7aee6b90";
+	$dbname = "heroku_88b63e6c9aaaf78";
 
 	// Create connection
 	$conexion = mysqli_connect($servername, $username, $password, $dbname);
